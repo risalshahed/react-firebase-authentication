@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Legal Information and Advice",
+    "rate": "1000",
+    "description": "Legal advice is the giving of a professional or formal opinion regarding the substance or procedure of the law in relation to a particular factual situation. The provision of legal advice will often involve analyzing a set of facts and advising a person to take a specific course of action based on the applicable law. A consultation is an initial meeting with an attorney that takes place before you make the decision on whether to hire that attorney to represent you in your particular legal matter.",
+    "img": "https://i.ibb.co/b3X8Dvy/legal-advice.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Review documents",
+    "rate": "1000",
+    "description": "A document review attorney is responsible for reviewing all documents pertaining to a court case. Most of the work happens before a trial begins, known as the pre-trial discovery process. At this stage, attorneys exchange documents, records, and evidence that they will present at trial, all of which must be reviewed.",
+    "img": "https://i.ibb.co/7jHxTMG/prepare-document.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mediation and Arbitration",
+    "rate": "1500",
+    "description": "Mediation- arbitration is an alternative dispute resolution process (ADR), also called family dispute resolution process, that uses mediation and arbitration to try to resolve legal issues without going to court. It is sometimes called “med-arb”.",
+    "img": "https://i.ibb.co/tLn1q41/mediation-arbitration.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Preparation of Documents",
+    "rate": "1500",
+    "description": "Legal documents are signed contracts between you and another person, business, or entity. They safeguard both parties' rights and obligations while offering some form of recourse if things don't go as expected. Preparing legal documents can take time, research, and insight, but when done right, it can protect you and your business at the right time.",
+    "img": "https://i.ibb.co/xSMd3j1/review-documents.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Clients' Negotiations",
+    "rate": "2500",
+    "description": "Conduct a thorough case assessment and risk analysis, and on that basis prepare a negotiation plan. Identify the client's interests- personal, commercial and technical. The client's specific needs may be non-legal, for example, the need for confidentiality, control, economic security, stability, recognition and reputation.",
+    "img": "https://i.ibb.co/1M5rh3G/negotiation.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Clients' Hearings",
+    "rate": "3000",
+    "description": "Representation in an arbitration court is a procedure that allows a third party to protect the rights and interests of participants in the judicial process. An important condition is that the representative who acts on behalf of the principal should not be a direct participant in the court, i.e. he should not be an interested person. Therefore, most often the interests of their clients are represented by experienced lawyers/lawyers who know the relevant section of the legislation well.",
+    "img": "https://i.ibb.co/Vxf8JYr/court.jpg"
+  }
+]

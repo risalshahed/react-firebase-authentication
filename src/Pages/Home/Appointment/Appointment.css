@@ -1,0 +1,32 @@
+.appointment {
+  padding: 2rem 2% 1rem;
+  box-shadow: 10px 18px 25px #888;
+  margin: 5rem auto;
+  width: 50%;
+}
+
+.submit-appointment {
+  background-color: rgb(0, 60, 255);
+  color: #eee;
+  display: block;
+  margin: 3rem auto;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 18px;
+  font-size: 1.5em;
+}
+
+
+/* ------------------------ Responsive for Tablet ------------------------ */
+@media (max-width: 768px) {
+  .appointment {
+    width: 70%;
+  }
+}
+
+/* ------------------------ Responsive for Mobile ------------------------ */
+@media (max-width: 576px) {
+  .appointment {
+    width: 90%;
+  }
+}

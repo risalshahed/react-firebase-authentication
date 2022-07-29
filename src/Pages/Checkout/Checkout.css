@@ -1,0 +1,20 @@
+.checkout {
+  width: 50%;
+  margin: auto;
+  padding: 4rem 2%;
+  box-shadow: 10px 18px 25px #888;
+}
+
+/* ------------------------ Responsive for Tablet ------------------------ */
+@media (max-width: 768px) {
+  .checkout {
+    width: 70%;
+  }
+}
+
+/* ------------------------ Responsive for Mobile ------------------------ */
+@media (max-width: 576px) {
+  .checkout {
+    width: 90%;
+  }
+}
